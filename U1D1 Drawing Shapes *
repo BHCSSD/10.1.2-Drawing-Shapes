@@ -1,0 +1,23 @@
+// Starter Code
+
+function setup() {
+  createCanvas();
+}// end setup
+
+function draw() {
+  background();
+  line(0, 200, 400, 200);// don't touch this
+  line(200, 0, 200, 400);// don't touch this
+  text("Quadrant 1", 20, 20);// don't touch this
+  text("Quadrant 2", 220, 20);// don't touch this
+  text("Quadrant 3", 20, 220);// don't touch this
+  text("Quadrant 4", 220, 220);// don't touch this
+
+
+  
+}// end draw
+
+// function mousePressed() {
+//   print(mouseX + ",   " + mouseY);
+// }// end mouse pressed
+
