@@ -2,7 +2,7 @@
 
 function setup() {
   createCanvas();
-}// end setup
+}// end setup do not delete anything here
 
 function draw() {
   background();
@@ -15,9 +15,9 @@ function draw() {
 
 
   
-}// end draw
+}// end draw do not delete anything here
 
 // function mousePressed() {
 //   print(mouseX + ",   " + mouseY);
-// }// end mouse pressed
+// }// end mouse pressed do not delete anything here
 
