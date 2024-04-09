@@ -13,11 +13,11 @@ This is what is known as a ‘library’ of Javascript. This means it is a subse
   ## TODO part 1:
   1. Make a file with the name U1D1-Drawing-Shapes
   2. make `createCanvas(x, y)`; inside of `setup`. Set x to 400, and y to 400
-  3. inside of the `draw` curly brackets set your background colour: `background(255);` what does the number change in for your background?
+  3. inside of the `draw` curly brackets set your background colour: `background(255);`  add a comment beside and tell me what the number changes in for your background.
   4.  `background(r,g,b)` set each value r,g,b for anywhere between 0-255. 
         Goal: make the background the same colour as Baby Yoda
 
-  5. Highlight line 18,19,20 and use the short cut `ctrl + /` uncomment out the `function mousePressed()`
+  5. Highlight line 18,19,20 and use the short cut `ctrl + /` uncomment out the `function mousePressed()` we are uncommenting this code. 
         - this code will print of the x,y coordinates for you inside of the Console
   5. draw a `square(x,y,h)` h= height/width of the square, and x,y= location in quadrant 1
   6. draw a rectangle using `rect(x,y,w,h)` this is like `square()`, but you can change the width. in quadrant 2
