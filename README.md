@@ -35,8 +35,7 @@ This is what is known as a ‘library’ of Javascript. This means it is a subse
 
 ## Once you are done, make sure you save. I will look for this exact file name, if I don't see it, you aren't marked. 
 
-// Starter Code
-
+```
 function setup() {
   createCanvas();
 }// end setup do not delete anything here
@@ -50,7 +49,7 @@ function draw() {
   text("Quadrant 3", 20, 220);// don't touch this
   text("Quadrant 4", 220, 220);// don't touch this
 
-
+```
   
 }// end draw do not delete anything here
 
