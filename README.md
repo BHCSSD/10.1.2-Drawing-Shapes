@@ -6,7 +6,7 @@ Graded
 
   Our goal today is very simple, learn to colour inside the lines. We will be using P5 for javascript 
   
-This is what is known as a ‘library’ of Javascript. This means it is a subset (think British English, vs American English) of Javascript. In this case, it was written to work with a ‘canvas’ to make drawing, animating and user interaction simpler than just using regular Javascript.
+This is what is known as a `library` of Javascript. This means it is a subset (think British English, vs American English) of Javascript. In this case, it was written to work with a `canvas` to make drawing, animating and user interaction simpler than just using regular Javascript.
 
 
   
@@ -20,19 +20,23 @@ This is what is known as a ‘library’ of Javascript. This means it is a subse
 
   5. Highlight line 18,19,20 and use the short cut `ctrl + /` uncomment out the `function mousePressed()` we are uncommenting this code. 
         - this code will print of the x,y coordinates for you inside of the Console
-  5. draw a `square(x,y,h)` h= height/width of the square, and x,y= location in quadrant 1
-  6. draw a rectangle using `rect(x,y,w,h)` this is like `square()`, but you can change the width. in quadrant 2
-  7. draw a `circle()` in quadrant 3
-  8. draw a `ellipse()` in quadrant 4
+  6. draw a `square(x,y,h)` h= height/width of the square, and x,y= location in quadrant 1
+  7. draw a rectangle using `rect(x,y,w,h)` this is like `square()`, but you can change the width. in quadrant 2
+  8. draw a `circle()` in quadrant 3
+  9. draw a `ellipse()` in quadrant 4
 
 
 ## You should have 1 square, 1 rectangle, 1 circle 1 ellipse and baby Yoda colour
   
-  8. Use `fill()` and play around with changing each shape to a different colour 
-  9. what does `stroke()` & `strokeWeight()` do?
+  10. Use `fill()` and play around with changing each shape to a different colour 
+  11. what does `stroke()` & `strokeWeight()` do?
   - use comments `//` to put your answer at the very top of the page
-  10. beside each shape, you drew write a comment `//` and write the "arguments" that go inside ie `square(111 , 111, 50)// x,y,h as a way to practice and remember what each number does.
-    - arguments are just another name for the numbers you put inside each shape. 
+  12. beside each shape, you drew write a comment `//` and write the "arguments" that go inside the ()
+        - arguments are just another name for the numbers you put inside each shape. 
+```
+    square(111 , 111, 50)// x,y,h as a way to practice and remember what each number does.
+```
+
 
 ## Once you are done, make sure you save. I will look for this exact file name, if I don't see it, you aren't marked. 
 
