@@ -14,7 +14,7 @@ This is what is known as a `library` of Javascript. This means it is a subset (t
   1. Make a file with the name 10.1.2-Drawing-Shapes
 
   2. make `createCanvas(x, y)`; inside of `setup`. Set x to 400, and y to 400
-  3. inside of the `draw` curly brackets set your background colour: `background(255);`  add a comment beside and tell me what the number changes in for your background.
+  3. inside of the `draw()` curly brackets set your background colour: `background(255);`  add a comment beside and tell me what the number changes in for your background.
   4.  `background(r,g,b)` set each value r,g,b for anywhere between 0-255. 
         Goal: make the background the same colour as Baby Yoda
 
