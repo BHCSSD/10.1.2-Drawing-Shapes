@@ -33,14 +33,14 @@ This is what is known as a `library` of Javascript. This means it is a subset (t
   - use comments `//` to put your answer at the very top of the page
   12. beside each shape, you drew write a comment `//` and write the "arguments" that go inside the ()
         - arguments are just another name for the numbers you put inside each shape. 
-```
+```javaScript
     square(111 , 111, 50)// x,y,h as a way to practice and remember what each number does.
 ```
 
 
 ## Once you are done, make sure you save. I will look for this exact file name, if I don't see it, you aren't marked. 
 
-```
+```javaScript
 function setup() {
   createCanvas();
 }// end setup do not delete anything here
